@@ -17,8 +17,8 @@ To run the Laptop Price Estimator locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kpoornasai121/laptop-price-estimator.git
-   cd laptop-price-estimator
+   git clone https://github.com/RevanthGangapur/Laptop_Price_Estimator.git
+   cd Laptop_Price_Estimator
    ```
 
 2. **Install Dependencies**:
